@@ -7,4 +7,4 @@ After that you will have to create an API, and replace it from **/src/api/unspal
 
 ***
 
-Demo: https://reactjs-unspalsh-search-photo.vercel.app/
+Demo: https://reactjs-unsplash-search-photo.vercel.app/
