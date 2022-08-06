@@ -1,4 +1,4 @@
-# ReactJs - Search Photos from Unsplash
+# ReactJS - Search Photos from Unsplash
 
 This project will guide to call API in unsplash - https://unsplash.com/ website and get the photos. It will show photos in masonry style.
 
