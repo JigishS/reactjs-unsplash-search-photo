@@ -19,7 +19,11 @@ cd reactjs-redux-song-list
 ```
 npm install
 ```
-#### 5) Now you can run the project
+#### 5) Once you register in unsplash website, go to application section-https://unsplash.com/oauth/applications and create your application.
+
+#### 7) After creating App you will get 'Access Key'. Now put it in **\src\api\unspalsh.js** file
+*Note: Please replace only **YOUR_ACCESS_KEY** with your Access Key, don't remove Client-ID*
+#### 6) Now you can run the project
 ```
 npm start
 ```
